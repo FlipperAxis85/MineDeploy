@@ -34,7 +34,7 @@ MineDeploy/
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation (https://youtu.be/XMWlt6VUkUM)
 
 1. Clone le dépôt :
    ```bash
