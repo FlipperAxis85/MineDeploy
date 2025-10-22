@@ -14,8 +14,8 @@ MINECRAFT_USER=$(whoami)
 MINECRAFT_DIR="$SERVERS_DIR" 
 JAR_FILE="server.jar" 
 SESSION_NAME="minecraft"
-MIN_RAM="4G"
-MAX_RAM="10G"
+MIN_RAM="1G"
+MAX_RAM="4G"
 STARTUP_DELAY=30
 
 # Variables d'environnement pour cron
